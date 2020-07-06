@@ -1,8 +1,8 @@
-Create 4 new Separate projects in pycharm to push to 4 separate Repositories to github, called:
-1 - student_data_inheritance
-2 - student_data_encapsulation
-3 - student_data_polymorphism
-**4 - student_data_abstraction**
+Create 4 new Separate projects in pycharm to push to 4 separate Repositories to github, called:  
+1 - student_data_inheritance  
+2 - student_data_encapsulation  
+3 - student_data_polymorphism  
+**4 - student_data_abstraction**  
 
 ```Create two python files and one READEME.md in each Repository
 Student_data.py file as a parent class and DevOps_student.py as a child class
